@@ -5,5 +5,5 @@ Final code for Snake Game on Tiva C Board using FreeRTOS for Real-Time Embedded 
 - Once all game logic and function was finished, we worked on further optimizing thr system by referring to real-time CPU, stack, and task execution metrics for each task. This included allocating stack according to high water mark, optimizing task periods, only rendering when necessary, incorporating stack overflow protection, and so on.
 
 Videos
-- (Normal game with death screen)[https://youtube.com/shorts/VU4z6SscvjA?feature=share]
-- (Increasing speed)[https://youtube.com/shorts/2gngTt9Hyew?feature=share]
+- [Normal game with death screen](https://youtube.com/shorts/VU4z6SscvjA?feature=share)
+- [Increasing speed](https://youtube.com/shorts/2gngTt9Hyew?feature=share)
