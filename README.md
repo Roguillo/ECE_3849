@@ -3,3 +3,7 @@ Final code for Snake Game on Tiva C Board using FreeRTOS for Real-Time Embedded 
 - For my Real-Time Embedded systems, I worked throughout the term with a classmate to program a fully functional and optimized snake game on a Tiva C development board + booster board (TI EK-TM4C1294XL and BOOSTXL-EDUMKII respectively). We learned about and implemented FreeRTOS tasks, queues, semaphores, mutexes, and more to ensure safe and efficient execution of all tasks
 - Of the board's peripherals, we developed drivers for the LCD screen to show the game, the joystick for user movement input, the buzzer for different in-game events (game start, eating fruit, death, restart, etc.), as well as lower-level peripherals like timers
 - Once all game logic and function was finished, we worked on further optimizing thr system by referring to real-time CPU, stack, and task execution metrics for each task. This included allocating stack according to high water mark, optimizing task periods, only rendering when necessary, incorporating stack overflow protection, and so on.
+
+Videos
+- (Normal game with death screen)[https://youtube.com/shorts/VU4z6SscvjA?feature=share]
+- (Increasing speed)[https://youtube.com/shorts/2gngTt9Hyew?feature=share]
